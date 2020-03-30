@@ -11,9 +11,6 @@ Please note that this docker uses Python 3.7 and has the following packages inst
 
 ```
 cron
-ffmpeg
-imagemagick
-gifsicle
 logrotate
 ```
 
